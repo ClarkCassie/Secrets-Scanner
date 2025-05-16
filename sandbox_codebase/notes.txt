@@ -1,0 +1,5 @@
+This is a notes file
+This file should not have any secrets
+Some folks add secrets to note files
+Like the person who added one the line below:
+API_KEY = "abc1234567890abcdefghijklmnopqrstuv"
